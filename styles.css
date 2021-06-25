@@ -1,0 +1,21 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  display: flex;
+  justify-content: flex-end;
+  align-content: center;
+}
+
+li {
+  margin: 6px;
+}
+
+li a {
+  display: block;
+  padding: 8px;
+}
